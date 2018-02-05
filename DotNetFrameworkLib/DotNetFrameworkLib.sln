@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetFrameworkLib", "DotNetFrameworkLib\DotNetFrameworkLib.csproj", "{7A511F60-4650-4514-BA3A-EB222213EC27}"
+EndProject
+Project("{5DD5E4FA-CB73-4610-85AB-557B54E96AA9}") = "DotNetFrameworkLibNuget", "DotNetFrameworkLibNuget\DotNetFrameworkLibNuget.nuproj", "{2FE99304-C064-4821-95C9-DCB06FE31A6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A511F60-4650-4514-BA3A-EB222213EC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A511F60-4650-4514-BA3A-EB222213EC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A511F60-4650-4514-BA3A-EB222213EC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A511F60-4650-4514-BA3A-EB222213EC27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE99304-C064-4821-95C9-DCB06FE31A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE99304-C064-4821-95C9-DCB06FE31A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE99304-C064-4821-95C9-DCB06FE31A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE99304-C064-4821-95C9-DCB06FE31A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42F369BB-8081-49E3-A86B-FAC5DD1051A6}
+	EndGlobalSection
+EndGlobal
